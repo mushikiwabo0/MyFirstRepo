@@ -1,0 +1,3 @@
+Brief Introduction About Myself.
+
+Hello, I'm chris and this is my first time I'm here with Git & GitHub.
