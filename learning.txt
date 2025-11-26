@@ -1,1 +1,4 @@
-I have learnt that SE is awesome
+What I have learned from this course
+
+I have learned how to create repositories, commit files, use GitHub, and push changes. 
+This course has helped me understand how Git tracks changes and how to manage my work in a repository.
